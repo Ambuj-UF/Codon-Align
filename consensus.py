@@ -1916,9 +1916,7 @@ parser = argparse.ArgumentParser(prog='Consensus',
                                  formatter_class=argparse.RawDescriptionHelpFormatter,
                                  description=textwrap.dedent('''\
     ----------------------------------------------------------------------------------------------------------
-    \t\t\t\t Welcome to Consensus-1.0 alignment handling program
-    \t\t\t ConCat-Align conducts sequence alignment using Muscle/Mafft
-    \t\t\t sequence alignment programs.
+    \t\t\t\t Welcome to Consensus-1.0 codon sequence extraction and alignment program
     \t\t\tWritten by Ambuj Kumar, University of Florida
     
     ----------------------------------------------------------------------------------------------------------

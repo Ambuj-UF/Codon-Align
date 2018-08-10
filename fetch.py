@@ -46,12 +46,10 @@ parser = argparse.ArgumentParser(prog='FetchSeq',
                                  formatter_class=argparse.RawDescriptionHelpFormatter,
                                  description=textwrap.dedent('''\
     ----------------------------------------------------------------------------------------------------------
-    \t\t\t\t Welcome to ConCat-1.0 alignment handling program
-    \t\t\t ConCat-Align conducts sequence alignment using Muscle/Mafft 
-    \t\t\t sequence alignment programs.
-    \t\t\tWritten by Ambuj Kumar, University of Florida
-    \t      ConCat sequence alignment concatenation program was designed at Kimball-Braun
-    \t\tlab group to handle large amount of sequence dataset for phylogeny study.
+    \t\t\t\t Welcome to FetchSeq-1.0 is a gene transcript parser
+    \t\t\t ConCat-Align conducts sequence alignment using Muscle/Mafft
+    \t\t\tWritten by Ambuj Kumar, University of Florida, Kimball-Braun lab
+
     
     ----------------------------------------------------------------------------------------------------------
     

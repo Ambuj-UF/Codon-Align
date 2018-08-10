@@ -14,7 +14,7 @@ python fetch.py -cds aa.txt -ortho
 In the second step Condon-Align uses CCDS exon annotations to perform exon wide search accross all the species gene trasncript sequences via tblastn search. Individual exon sequences are aligned using muscle codon alignment method and finally concatenated together to build final gene codon sequence alignemnt.  
 
 ``` 
-python python consensus.py -i aa.txt -o OutputFolder
+python consensus.py -i aa.txt -o OutputFolder
 ```
 
 
