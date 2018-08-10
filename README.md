@@ -1,4 +1,4 @@
-#ConCat v1.0
+#Codon-Align v1.0
 
 ###BioPython and Blast command line is a prerequisite for Codon-Align package
 
